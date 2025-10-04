@@ -7,6 +7,12 @@ A comprehensive Arduino-based remote control car system with advanced lighting f
 ## 📋 Project Overview
 
 This project implements a fully-featured RC car controller using Arduino, L298N motor driver, servo motor for steering, and Bluetooth connectivity. The system includes intelligent lighting that responds to the car's movement state, providing realistic turn signals, headlights, and brake lights.
+![Project Preview](./photo/1.jpeg)
+![Project Preview](./photo/2.jpeg)
+![Project Preview](./photo/3.jpeg)
+![Project Preview](./photo/4.jpeg)
+![Project Preview](./photo/5.jpeg)
+![Project Preview](./photo/6.jpeg)
 
 ---
 
