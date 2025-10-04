@@ -58,7 +58,7 @@ This project implements a fully-featured RC car controller using Arduino, L298N 
 | Front LED | 8 |
 | Right Turn Signal | 4 |
 | Left Turn Signal | 7 |
-
+![Project Preview](./photo/7.png)
 ---
 
 ## 📡 Bluetooth Commands
